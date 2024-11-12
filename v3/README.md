@@ -6,4 +6,4 @@
 
 Filename                               | Download Count
 -------------------------------------- | --------------
-TrueCrypt-7.1a-Mac-OS-X-patched-v3.dmg |             61
+TrueCrypt-7.1a-Mac-OS-X-patched-v3.dmg |             87

@@ -12,4 +12,4 @@ This is no longer distributed as an installer, so you will need to [install osxf
 
 Filename          | Download Count
 ----------------- | --------------
-TrueCrypt.app.zip |            276
+TrueCrypt.app.zip |            298
